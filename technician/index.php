@@ -36,6 +36,8 @@ $list_assign = $repair->getRepairs('x');
                         class="link-text">EmgRepair</span></a></li>
             <li class="nav-item"><a class="nav-link" href="./lamppost.php"><i class="fas fa-shower"></i><span
                         class="link-text">Lamppost</span></a></li>
+            <li class="nav-item"><a class="nav-link" href="./lamppost.php"><i class="far fa-file-alt"></i><span
+                        class="link-text">Inventory</span></a></li>
 
         </ul>
 
